@@ -1,0 +1,8 @@
+```txt
+tensorflow
+numpy
+pandas
+pillow
+matplotlib
+gradio
+```
